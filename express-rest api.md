@@ -1,9 +1,9 @@
 
 # Rest-Api with express
 JavaScript examples Restful Api with node.js and MongoDB <br/>
-##### 1. Create nmp package.json file 
-$ nmp init
-##### 2. Install nmp express
+##### 1. Create npm package.json file 
+$ npm init
+##### 2. Install npm express
 $ npm install express nodemon // npm install <package name> <next package> .... </br> 
 change 
   "scripts": {
